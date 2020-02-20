@@ -4,20 +4,20 @@
 
 ### Exploring US Bike Share Data
 
-###### **Introduction:**
+#### **Introduction :**
 
 This Project is about a Bikeshare System that is used by three cities 
 
-1.  *New York*
+1. *New York*
 
 2. *Chicago*
 
-3.  *Washington*
+3. *Washington*
 
 I used Python 3  to explore the data related to this Project and also used 
 Python's Modules- Pandas and Numpy.
 
-###### Datasets & Files  :
+#### Datasets & Files  :
 
 The datasets used for this project are randomly selected data for the first six months of 2017.The **CSV** file for these cities contains the following six colums.
 
@@ -37,7 +37,7 @@ I used the data provided by [Motivate](https://www.motivateco.com/) which is a b
 
 ### Description
 
-To start of with :
+To start  with :
 
 - A city based filtering is done based on the user's input
 
@@ -45,40 +45,50 @@ To start of with :
 
 - Based on the above filters the following data format is displayed :
   
-  ##### **Time Statistics:**
+  #### **Time Statistics:**
   
-   ***Displays statistics on the most frequent times of travel.***
-              *1. Displays the most common month
-              2. Displays the most common day of week*
+  '' ***Displays statistics on the most frequent times of travel.***''
   
-  ##### **Station Statistics:**
+  1. *Displays the most common month*
   
-  ***Displays statistics on the most popular stations and trip.***
-              *1. Displays the most commonly used start station
-              2. Displays the most commonly used end station
-              3. Displays the most frequent combination of start station and end station*
+  2. *Displays the most common day of week*
   
-  ##### **Trip Duration Statistics:**
+  #### **Station Statistics:**
   
-  ***Displays statistics on the total and average trip duration.***
-              *1. Displays the total travel time
-              2. Displays the mean travel time*
+  ''***Displays statistics on the most popular stations and trip.***''
   
-  ##### **User Statistics:**
+  1. *Displays the most commonly used start station*
   
-  ***Displays statistics on bikeshare users.***
-              *1. Displays the counts of user types*
-              *2. Displays the counts of gender*
-              *3. Displays the Earliest Birth Year*
-              *4. Displays the Most Recent Birth Year
-              5. Displays the Most Common Birth Year*
+  2. *Displays the most commonly used end station*
+  
+  3. *Displays the most frequent combination of start station and end station*
+  
+  #### **Trip Duration Statistics:**
+  
+  ''***Displays statistics on the total and average trip duration.***''
+  
+  1. *Displays the total travel time*
+  
+  2. *Displays the mean travel time*
+  
+  #### **User Statistics:**
+  
+  ''***Displays statistics on bikeshare users.***''
+  
+  1. *Displays the counts of user types*
+  
+  2. *Displays the counts of gender*
+  
+  3. *Displays the Earliest Birth Year*
+  
+  4. *Displays the Most Recent Birth Year*
+  
+  5. *Displays the Most Common Birth Year*
+     
+     
+  
+  
   
   ***<u>NOTE</u>***:
   
   Errors are handled. User understandble statements are used for handling the errors.
-
-
-
-
-
-
