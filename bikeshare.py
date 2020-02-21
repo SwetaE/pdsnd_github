@@ -180,15 +180,15 @@ def station_stats(df):
 
     # TO DO: display most commonly used start station
   
-    print("The Most Common Start Station: ",Common_Start_Station)
+    print("The Most Common Start Station: {}".format(Common_Start_Station))
     
     # TO DO: display most commonly used end station
     
-    print("The Most Common End Station: ",Common_End_Station)
+    print("The Most Common End Station: {}".format(Common_End_Station))
     
     # TO DO: display most frequent combination of start station and end station trip
     
-    print("The Most Common Start & End Station : ",Common_Start_End_Station)
+    print("The Most Common Start & End Station : {}".format(Common_Start_End_Station))
     
     
     #print(df)
@@ -208,7 +208,7 @@ def trip_duration_stats(df):
     # TO DO: display total travel time
     
     trip_duration_sum=df['Trip Duration'].sum()
-    print("The Total Travel Time in Seconds : ",trip_duration_sum)
+    print("The Total Travel Time in Seconds : {}".format(trip_duration_sum))
 
     
     
@@ -226,7 +226,7 @@ def trip_duration_stats(df):
     # TO DO: display mean travel time
     trip_duration_mean=df['Trip Duration'].mean()
     
-    print("The Mean Travel Time in Seconds : ",trip_duration_mean)
+    print("The Mean Travel Time in Seconds : {}".format(trip_duration_mean))
     mean_days=trip_duration_mean//(86400)
     trip_duration_mean=trip_duration_mean-(86400*mean_days)
     mean_hours=trip_duration_mean//(3600)
