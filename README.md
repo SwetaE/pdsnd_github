@@ -84,9 +84,9 @@ To start  with :
   4. *Displays the Most Recent Birth Year*
   
   5. *Displays the Most Common Birth Year*
-
+  
   ***<u>NOTE</u>***:
-
+  
   Errors are handled. User understandble statements are used for handling the errors.
 
 ### Softwares Used & Resources
@@ -97,11 +97,12 @@ To start  with :
 
 3. [Mark Text](https://marktext.app/) for md files
    
-   The following sourses provided me lot what i needed for my project
+   The following sources provided me lot what i needed for my project
 
-1. [Stack Overflow](https://stackoverflow.com/)
-2. [Pandas](https://pandas.pydata.org/pandas-docs/version/0.17.0/)
-3.  [Python Documentation]([https://docs.python.org/3/library/)
-4. [Numpy](https://docs.scipy.org/doc/numpy-1.13.0/contents.html)
+4. [Stack Overflow](https://stackoverflow.com/)
 
+5. [Pandas](https://pandas.pydata.org/pandas-docs/version/0.17.0/)
 
+6. [Python Documentation]([https://docs.python.org/3/library/)
+
+7. [Numpy](https://docs.scipy.org/doc/numpy-1.13.0/contents.html)
