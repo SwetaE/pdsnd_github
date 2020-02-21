@@ -95,7 +95,7 @@ To start  with :
 
 3. [Mark Text](https://marktext.app/) for md files
    
-   The following sources provided me lot what i needed for my project
+   The following sources provided me few information that was needed for my project
 
 4. [Stack Overflow](https://stackoverflow.com/)
 
