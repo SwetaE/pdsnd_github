@@ -180,15 +180,15 @@ def station_stats(df):
 
     # TO DO: display most commonly used start station
   
-    print("The Most Common Start Station: ",Common_Start_Station)
+    print("The Most Common Start Station: {}".format(Common_Start_Station))
     
     # TO DO: display most commonly used end station
     
-    print("The Most Common End Station: ",Common_End_Station)
+    print("The Most Common End Station: {}".format(Common_End_Station))
     
     # TO DO: display most frequent combination of start station and end station trip
     
-    print("The Most Common Start & End Station : ",Common_Start_End_Station)
+    print("The Most Common Start & End Station : {}".format(Common_Start_End_Station))
     
     
     #print(df)
