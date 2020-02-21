@@ -103,6 +103,6 @@ To start  with :
 
 5. [Pandas](https://pandas.pydata.org/pandas-docs/version/0.17.0/)
 
-6. [Python Documentation]([https://docs.python.org/3/library/)
+6. [Python Documentation](https://docs.python.org/3/library/)
 
 7. [Numpy](https://docs.scipy.org/doc/numpy-1.13.0/contents.html)
