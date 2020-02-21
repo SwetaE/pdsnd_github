@@ -1,5 +1,3 @@
-##### 
-
 ##### 20/02/2020
 
 ### Exploring US Bike Share Data
